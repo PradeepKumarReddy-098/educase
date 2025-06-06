@@ -17,6 +17,20 @@ This is a mobile-first frontend application built as part of an assignment. It i
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/PradeepKumarReddy-098/educase
 cd your-repo
 npm install
+npm run dev -To start for vite+React
+npm start - for React
+```
+
+## Folder Structure
+```bash
+/src
+  ├── components
+  │   ├── Welcome.js
+  │   ├── LoginScreen.js
+  │   ├── Signup.js
+  │   ├── Account.js
+  |   |__style.js
+      
