@@ -1,6 +1,7 @@
 # PopX Authentication System
 
 This is a mobile-first frontend application built as part of an assignment. It includes a Welcome Page, LogIn, Sign Up, and Profile Page.
+[Live Project] (https://educasepop.netlify.app/)
 
 ## Features
 - Fully responsive design
