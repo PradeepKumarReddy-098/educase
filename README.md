@@ -1,12 +1,22 @@
-# React + Vite
+# PopX Authentication System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a mobile-first frontend application built as part of an assignment. It includes a Welcome Page, LogIn, Sign Up, and Profile Page.
 
-Currently, two official plugins are available:
+## Features
+- Fully responsive design
+- Styled-components for modular CSS
+- Navigation using React Router
+- Simple and clean UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React
+- Styled-components
+- React Router
 
-## Expanding the ESLint configuration
+## Installation
+Clone the repository and install dependencies:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+npm install
