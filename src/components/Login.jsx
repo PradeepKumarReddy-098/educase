@@ -34,7 +34,7 @@ const LoginScreen = () => {
                 required
               />
             </FormGroup>
-            <LoginButton type="submit" onClick={()=>navigate('/account')}>Login</LoginButton>
+            <LoginButton type="button" onClick={()=>navigate('/account')}>Login</LoginButton>
           </form>
         </FormWrapper>
       </Container>
